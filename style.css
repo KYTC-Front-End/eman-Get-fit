@@ -131,7 +131,7 @@ header *{
     display: flex;
     justify-content:center;
     align-items:center;   
-    flex-direction:row;
+    flex-direction:column-reverse;
     font-weight: 700;
     padding: 0px 13px;
     line-height: 25px;
@@ -142,8 +142,8 @@ header *{
 
 
 .img-f{
-    border-radius: 65px;
-    height: 70px;
+    border-radius: 90px;
+    height: 160px;
     padding: 5px;
 }
 .works{
