@@ -386,6 +386,9 @@ padding: 40px 22px;
         margin-right: 20px;
     }
     .footar ul li a{
+    .footar ul li a{
+        padding: 8px 10px;
+    }
         padding: 8px 10px;
     }
 
